@@ -1,12 +1,9 @@
-# LED Paddle Catch Game 🎯
-
+# BLINK & MISS
 ## Basic Details
-### Team Name: [Your Team Name]
-
+### Team Name: APPLE
 ### Team Members
-- Team Lead: [Your Name] - [Your College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Arunkrishna P U - NSS College of Engineering, Palakkad
+- Member 2: Adarsh A - NSS College of Engineering, Palakkad
 
 ### Project Description  
 A fun LED matrix paddle game where you catch a falling ball using buttons to move a paddle. Controls invert every 10 seconds, dance mode triggers randomly, and a Super Mario tune plays on misses.
@@ -38,7 +35,7 @@ For Software:
 #### Installation  
 - Install Arduino IDE from [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)  
 - Install board support for your microcontroller (e.g. ESP32)  
-- Download and open `LED_Paddle_Catch_Game.ino` in Arduino IDE  
+- Download and open `BLINK & MISS.ino` in Arduino IDE  
 
 #### Run  
 - Connect the hardware as per pin assignments in code  
@@ -84,11 +81,7 @@ For Hardware:
 ### Project Demo
 
 #### Video  
-[Demo Video Link](https://youtu.be/your-video-link)  
-*Demonstrates gameplay, control inversion, dance mode, and buzzer sounds.*
-
-#### Additional Demos  
-[Extra Demo Link or Documentation](https://github.com/yourrepo/extra-materials)
+[Demo Video Link](https://youtube.com/shorts/1tXksfdyjis?si=Sc257yN34KDpL-tf)  
 
 ## Team Contributions  
 - [Name 1]: Code development and game logic  
