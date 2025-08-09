@@ -48,14 +48,13 @@ For Software:
 For Software:
 
 #### Screenshots  
-*(Add photos of your LED matrix in action)*  
-![Game Play](screenshot1.png)  
-*Player catching the ball with paddle.*
 
-![Dance Mode](screenshot2.png)  
-*Random dance mode activated.*
+![Game Play](https://github.com/user-attachments/assets/db4a3d54-eb32-4af4-aef2-eaf0fe1f84a8)
 
-![Game Over](screenshot3.png)  
+
+
+![Game Over]https://github.com/user-attachments/assets/4a3353b2-2cab-49a1-a58d-7d6560e86384)
+)  
 *Game over screen with blinking LEDs and Super Mario sound.*
 
 #### Diagrams  
@@ -69,13 +68,14 @@ For Hardware:
 *Circuit showing LED matrix rows and columns connected, buttons, and buzzer.*
 
 #### Build Photos  
-![Components](components.jpg)  
+![Components](https://github.com/user-attachments/assets/57fa01bb-9f22-4be7-97cb-bc5e67270e48)
 *All components used: LED matrix, buttons, buzzer, microcontroller.*
 
-![Build](build_process.jpg)  
+![Build](https://github.com/user-attachments/assets/29a5a497-db43-4613-845b-854cf9f0c4a0) 
 *Assembling the LED matrix and wiring on the breadboard.*
 
-![Final](final_build.jpg)  
+![Final](https://github.com/user-attachments/assets/4666d208-d9eb-40e9-b5f1-c608ddbc2d2e
+)  
 *Final product ready to play.*
 
 ### Project Demo
@@ -84,9 +84,8 @@ For Hardware:
 [Demo Video Link](https://youtube.com/shorts/1tXksfdyjis?si=Sc257yN34KDpL-tf)  
 
 ## Team Contributions  
-- [Name 1]: Code development and game logic  
-- [Name 2]: Hardware assembly and testing  
-- [Name 3]: Documentation and presentation preparation
+- Arunkrishna P U: Code development, game logic, LED matrix control
+- Adarsh A : Hardware wiring, testing, documentation
 
 ---
 
