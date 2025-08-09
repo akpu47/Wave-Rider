@@ -54,6 +54,7 @@ For Software:
 
 ![Game Play](https://github.com/user-attachments/assets/db4a3d54-eb32-4af4-aef2-eaf0fe1f84a8)
 
+<img width="472" height="456" alt="image" src="https://github.com/user-attachments/assets/b89e6066-035a-4409-9b1b-51026d193fc5" />
 
 
 ![Game Over](https://github.com/user-attachments/assets/4a3353b2-2cab-49a1-a58d-7d6560e86384)
