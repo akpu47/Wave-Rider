@@ -53,9 +53,8 @@ For Software:
 
 
 
-![Game Over]https://github.com/user-attachments/assets/4a3353b2-2cab-49a1-a58d-7d6560e86384)
-)  
-*Game over screen with blinking LEDs and Super Mario sound.*
+![Game Over](https://github.com/user-attachments/assets/4a3353b2-2cab-49a1-a58d-7d6560e86384)
+ 
 
 #### Diagrams  
 ![Wiring Diagram](wiring_diagram.png)  
@@ -69,7 +68,7 @@ For Hardware:
 
 #### Build Photos  
 ![Components](https://github.com/user-attachments/assets/57fa01bb-9f22-4be7-97cb-bc5e67270e48)
-*All components used: LED matrix, buttons, buzzer, microcontroller.*
+*All components used: LED matrix (5*5=25 ), buttons(3), buzzer (1), microcontroller(ESP32), Breadboard, Jumper wires .*
 
 ![Build](https://github.com/user-attachments/assets/29a5a497-db43-4613-845b-854cf9f0c4a0) 
 *Assembling the LED matrix and wiring on the breadboard.*
